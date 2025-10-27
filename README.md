@@ -4,7 +4,7 @@
 </p>
 
 ## Overview
-- [Purpose & Benefits](#purpose--benefits)  
+- [Introduction](#introduction)  
 - [Features](#features)  
 - [Installation](#installation)  
 - [Legal & Privacy](#legal--privacy)  
