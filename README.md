@@ -138,12 +138,12 @@ It is **not a medical or performance-enhancement application** and should not be
 ---
 
 ## Screenshots
-![Plans](assets/Screenshot_Fit-Track_Plans.png)
-![Edit a plan](assets/Screenshot_Fit-Track_EditPlan.png)
-![Training mode](assets/Screenshot_Fit-Track_Training.png)
-![Exercises](assets/Screenshot_Fit-Track_Exercises.png)
-![Add an exercise](assets/Screenshot_Fit-Track_AddExercise.png)
-![Edit an exercise](assets/Screenshot_Fit-Track_EditExercise.png)
-![Data section](assets/Screenshot_Fit-Track_Data.png)
+![Plans](assets/Screenshot_Fit_Track_Plans.png)
+![Edit a plan](assets/Screenshot_Fit_Track_EditPlan.png)
+![Training mode](assets/Screenshot_Fit_Track_Training.png)
+![Exercises](assets/Screenshot_Fit_Track_Exercises.png)
+![Add an exercise](assets/Screenshot_Fit_Track_AddExercise.png)
+![Edit an exercise](assets/Screenshot_Fit_Track_EditExercise.png)
+![Data section](assets/Screenshot_Fit_Track_Data.png)
 
 *(Dark theme not shown in these examples.)*
